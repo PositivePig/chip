@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6ad1aad-09d1-44a1-a996-3f7c7d826559" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/Changelog_CN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/README_EN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/VapourSynth/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/VapourSynth/README_EN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/VapourSynth/simple-upcunet.vpy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/VapourSynth/upcunet_v20220227_vs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/VapourSynth/upcunet_v3_vs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/colab-demo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/black_cat/RealCUGAN-Pro-denoise3x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/black_cat/anime6b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/black_cat/ori.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/black_cat/srvggv3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/compare2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/compare3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/compare4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/con-lianggong-crop/new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/con-lianggong-crop/old.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/con-lianggong-crop/ori.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/crop-princess-red/d3-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/crop-princess-red/d3-old.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/crop-princess-red/new-d3-1d4-crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/crop-princess-red/nod-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/crop-princess-red/nod-old.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/crop-princess-red/ori-princess-crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/crop-princess-red/srvgg_v3-princess-crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/crop-princess/d3-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/crop-princess/d3-old.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/crop-princess/nod-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/crop-princess/nod-old.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/crop-princess/srvgg_v3-princess-crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/llssed-crop/anime6b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/llssed-crop/new-d3-1d5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/llssed-crop/new-d3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/llssed-crop/old-d3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/llssed-crop/ori.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/llssed-crop/srvggv3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/mask/RealCUGAN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/mask/ori.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/mask/sobel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/mask/sobel2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/test-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/demos/title-compare1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/inference_video.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/upcunet_v3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real-CUGAN/weights_v3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelss/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelss/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelss/base_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelss/base_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelss/cycle_gan_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelss/cycle_gan_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelss/networks.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelss/networks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelss/template_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelss/template_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelss/test_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelss/test_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optionss/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/optionss/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optionss/base_options.py" beforeDir="false" afterPath="$PROJECT_DIR$/optionss/base_options.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optionss/test_options.py" beforeDir="false" afterPath="$PROJECT_DIR$/optionss/test_options.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optionss/train_options.py" beforeDir="false" afterPath="$PROJECT_DIR$/optionss/train_options.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2GtzmqQVdOMfxOb4M6HnYdOYLJS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6ad1aad-09d1-44a1-a996-3f7c7d826559" name="Changes" comment="" />
+      <created>1667222829845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667222829845</updated>
+    </task>
+    <servers />
+  </component>
+</project>

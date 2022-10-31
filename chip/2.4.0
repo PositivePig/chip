@@ -1,0 +1,5 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Collecting dominate
+  Using cached https://pypi.tuna.tsinghua.edu.cn/packages/ef/a8/4354f8122c39e35516a2708746d89db5e339c867abbd8e0179bccee4b7f9/dominate-2.6.0-py2.py3-none-any.whl (29 kB)
+Installing collected packages: dominate
+Successfully installed dominate-2.6.0
